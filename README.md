@@ -2,7 +2,7 @@
 
 Data cleaning exercise with Python, using a kaggle dataset.
 
-Using the follwing dataset from kaggle:
+Using the following dataset from kaggle:
 
 https://www.kaggle.com/datasets/snehangsude/audible-dataset?resource=download&select=audible_cleaned.csv
 
